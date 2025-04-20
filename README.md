@@ -20,7 +20,7 @@ Amazon links for the parts used:
 2 - https://www.amazon.com/dp/B09KRJDRVH?ref=ppx_yo2ov_dt_b_fed_asin_title 
 
 2- https://www.amazon.com/dp/B00PNEQKC0?ref=ppx_yo2ov_dt_b_fed_asin_title
- 
+
 1 - https://www.amazon.com/dp/B01EV70C78?ref=ppx_yo2ov_dt_b_fed_asin_title 
 
 1 - https://www.amazon.com/dp/B08H292YZV?ref=ppx_yo2ov_dt_b_fed_asin_title 

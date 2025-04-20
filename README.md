@@ -16,14 +16,23 @@ Amazon links for the parts used:
 
 
 4 - https://www.amazon.com/dp/B07PQ5KNKR?ref=ppx_yo2ov_dt_b_fed_asin_title
+
 2 - https://www.amazon.com/dp/B09KRJDRVH?ref=ppx_yo2ov_dt_b_fed_asin_title 
-2- https://www.amazon.com/dp/B00PNEQKC0?ref=ppx_yo2ov_dt_b_fed_asin_title 
+
+2- https://www.amazon.com/dp/B00PNEQKC0?ref=ppx_yo2ov_dt_b_fed_asin_title
+ 
 1 - https://www.amazon.com/dp/B01EV70C78?ref=ppx_yo2ov_dt_b_fed_asin_title 
+
 1 - https://www.amazon.com/dp/B08H292YZV?ref=ppx_yo2ov_dt_b_fed_asin_title 
+
 1 - https://www.amazon.com/dp/B097R2JMJT?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1 
+
 1- https://www.amazon.com/dp/B0CLK7J4NB?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1 
+
 1- https://www.amazon.com/dp/B0B82BBKCY?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1 
+
 1 - https://www.amazon.com/dp/B082TQ11P2?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1 
+
 1 - https://www.amazon.com/dp/B01NBE2XIR?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1  
 
 Total cost is below $200. Great deal considering CNC Guitar Pickup Winders are about 6 to 7 times more. I could be wrong, I no math goods. 
@@ -33,15 +42,25 @@ I used the videos as well as resrouces from other builders. I drew a lot of insp
 Resources/Inspirations/3D Parts
 
 https://github.com/sandy9159/DIY-Arduino-based-Guitar-Pickup-Coil-Winder
+
 https://github.com/fps/OPWF 
+
 https://github.com/speccyfan/wm/blob/master/wm1.1/stl/bracket-right.stl  
+
 https://www.youtube.com/watch?v=pJiwjPVOXLA  
+
 https://www.youtube.com/watch?v=IrS8BBjuDdw  
+
 https://www.youtube.com/watch?v=xya4ipu7bTk
+
 https://www.youtube.com/watch?v=YcfYJsYc00k
+
 https://www.youtube.com/watch?v=phCA-h2uJGQ&t=526s
+
 https://www.youtube.com/shorts/mcej-a_-2Q8
+
 https://www.youtube.com/watch?v=2DeUdFgyJEU
+
 https://www.youtube.com/watch?v=DuSMk63nonc&t=84s   
 
 Also, if you do not have a 3D printer you may want to invest in a cheap one just to print out the parts otherwise you will need to buy something comparable or you can enlist the services of someone with a 3D printer. 
